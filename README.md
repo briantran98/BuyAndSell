@@ -1,7 +1,7 @@
 # OPTION 8 buy/sell
 
 An app where you can put different types of things up for sale. You can pick a specific niche of items to sell for the app (a cars site, a shoes site, etc). This lets buyers find the items they are looking for quickly, and easily contact sellers.
-Requirements:
+[Requirements](https://github.com/briantran98/BuyAndSell/blob/master/planning/user-stories.md):
 
     users can see featured items on a main feed
     users can filter items by price,
